@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Skeleton App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="your_username">Your username</string>
+    <string name="your_password">Your password</string>
+    <string name="incorrect_login">Username or password is incorrect</string>
+</resources>
